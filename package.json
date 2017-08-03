@@ -1,0 +1,13 @@
+{
+  "name": "RestAPI_server",
+  "description": "This is RestAPI server for getting list of numbers and inserting this list to Mongo DataBase. I use modules: express, mongoose, pasport.)",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "body-parser": "^1.17.2",
+    "mongoose": "^4.11.5",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
